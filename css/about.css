@@ -33,4 +33,52 @@ h1{color: black;}
     color: black; margin-right: 50px;
     width: 75%; padding: 5px; border: 1px solid black;
 
+/* }
+.mrs{
+    max-width: 50%;
+    height: auto;
+
+}
+.amy{
+    max-width: 50%;
+    height: auto; */
+}
+.team{
+    margin-top: 5%;
+    text-align: center;
+    color: blue;
+}
+.target{
+    color: blue;
+    text-align: center;
+}
+.list{
+    margin-top: 5%;
+    
+
+}
+.classes{
+text-align: justify;
+font-size: 50px;
+}
+.all{
+    border-radius: 50%;
+/* }
+.full{
+    background-image: url(./background.jpg);
+    max-width: 1000px;
+    height: auto;
+} */
+
+.aboutteam{
+    text-align: justify-content ;
+    
+}
+.us{
+    background-color: teal ;
+margin-left: 30%;
+font-size: 20px;
+text-align: justify;
+max-width: 50px;
+
 }
